@@ -4,9 +4,10 @@
  *
  * This source code is licensed under the BSD-style license found in the
  * LICENSE file in the root directory of this source tree.
+ * https://github.com/JoaovMiranda/programming-languages-stickers.git
  */
 
-package com.example.samplestickerapp;
+package com.example.stickers;
 
 import android.content.Context;
 import android.util.AttributeSet;
