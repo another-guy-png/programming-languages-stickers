@@ -7,8 +7,8 @@
       "name": "Database",
       "publisher": "João Miranda",
       "tray_image_file": "database.png",
-      //"image_data_version":"1",
-      //"avoid_cache":false,
+      "image_data_version":"1",
+      "avoid_cache":false,
       "publisher_email":"joaovmirandas@gmail.com",
       "publisher_website": "",
       "privacy_policy_website": "",
@@ -51,13 +51,80 @@
           "emojis": ["😘","🍪"]
         }
       ]
+    },
+    {
+      "identifier": "versioni",
+      "name": "Git",
+      "publisher": "João Miranda",
+      "tray_image_file": "git.webp",
+      "image_data_version":"2",
+      "avoid_cache":false,
+      "publisher_email":"joaovmirandas@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "bitbucket.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+        "image_file": "git.webp",
+        "emojis": ["😄","😀"]
+        },{
+          "image_file": "github.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "gitkracken.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "gitlab.webp",
+          "emojis": ["☕","🙂"]
+        }
+      ]
+    },
+    {
+      "identifier": "legends",
+      "name": "Legacy",
+      "publisher": "João Miranda",
+      "tray_image_file": "delphi.webp",
+      "image_data_version":"3",
+      "avoid_cache":false,
+      "publisher_email":"joaovmirandas@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "ada.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "delphi.webp",
+          "emojis": ["😄","😀"]
+        },{
+          "image_file": "fortran.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "lisp.webp",
+          "emojis": ["😄","😀"]
+        },{
+        "image_file": "pearl.webp",
+        "emojis": ["☕","🙂"]
+        },{
+          "image_file": "prolog.webp",
+          "emojis": ["☕","🙂"]
+        }
+      ]
     },{
       "identifier": "languages",
       "name": "Languages",
       "publisher": "João Miranda",
-      "tray_image_file": "database.png",
-      //"image_data_version":"1",
-      //"avoid_cache":false,
+      "tray_image_file": "golang.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
       "publisher_email":"joaovmirandas@gmail.com",
       "publisher_website": "",
       "privacy_policy_website": "",
@@ -68,20 +135,16 @@
           "emojis": ["☕","🙂"]
         },
         {
-          "image_file": "c.webp",
+          "image_file": "c++.webp",
           "emojis": ["😄","😀"]
         },
         {
-          "image_file": "c++.webp",
+          "image_file": "c.webp",
           "emojis": ["😆","😂"]
         },
         {
           "image_file": "dart.webp",
           "emojis": ["😩","😰"]
-        },
-        {
-          "image_file": "elixir.webp",
-          "emojis": ["😭","💧"]
         },
         {
           "image_file": "fsharp.webp",
@@ -96,47 +159,44 @@
           "emojis": ["😍","💑"]
         },
         {
-          "image_file": "java.webp",
-          "emojis": ["😘","🍪"]
-        },{
-          "image_file": "java_2.webp",
-          "emojis": ["☕","🙂"]
+        "image_file": "java.webp",
+        "emojis": ["😘","🍪"]
         },
         {
-          "image_file": "julia.webp",
+          "image_file": "java_2.webp",
           "emojis": ["😄","😀"]
         },
         {
-          "image_file": "kotlin.webp",
+          "image_file": "julia.webp",
           "emojis": ["😆","😂"]
         },
         {
-          "image_file": "python.webp",
+          "image_file": "kotlin.webp",
           "emojis": ["😩","😰"]
         },
         {
-          "image_file": "ruby.webp",
+          "image_file": "phyton.webp",
           "emojis": ["😭","💧"]
         },
         {
-          "image_file": "rust.webp",
+          "image_file": "ruby.webp",
           "emojis": ["😍","♥"]
         },
         {
-          "image_file": "scala.webp",
+          "image_file": "rust.webp",
           "emojis": ["💔","👎"]
         },
         {
-          "image_file": "swift.webp",
+          "image_file": "scala.webp",
           "emojis": ["😍","💑"]
         },
         {
-          "image_file": "vbnet.webp",
+          "image_file": "swift.webp",
           "emojis": ["😘","🍪"]
         },
         {
-          "image_file": "visualbasic.webp",
-          "emojis": ["😘","🍪"]
+          "image_file": "vbnet.webp",
+          "emojis": ["😍","💑"]
         }
       ]
     }
