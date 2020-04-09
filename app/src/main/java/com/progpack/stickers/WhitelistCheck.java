@@ -6,7 +6,7 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-package com.example.stickers;
+package com.progpack.stickers;
 
 import android.content.ContentResolver;
 import android.content.Context;

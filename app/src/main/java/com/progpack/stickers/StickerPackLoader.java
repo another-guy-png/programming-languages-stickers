@@ -6,7 +6,7 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-package com.example.stickers;
+package com.progpack.stickers;
 
 import android.content.ContentResolver;
 import android.content.Context;
@@ -14,6 +14,11 @@ import android.database.Cursor;
 import android.net.Uri;
 
 import androidx.annotation.NonNull;
+
+import com.progpack.stickers.BuildConfig;
+import com.progpack.stickers.BuildConfig;
+import com.progpack.stickers.StickerContentProvider;
+import com.progpack.stickers.StickerPackValidator;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
@@ -23,20 +28,20 @@ import java.util.Arrays;
 import java.util.HashSet;
 import java.util.List;
 
-import static com.example.stickers.StickerContentProvider.ANDROID_APP_DOWNLOAD_LINK_IN_QUERY;
-import static com.example.stickers.StickerContentProvider.AVOID_CACHE;
-import static com.example.stickers.StickerContentProvider.IOS_APP_DOWNLOAD_LINK_IN_QUERY;
-import static com.example.stickers.StickerContentProvider.LICENSE_AGREENMENT_WEBSITE;
-import static com.example.stickers.StickerContentProvider.PRIVACY_POLICY_WEBSITE;
-import static com.example.stickers.StickerContentProvider.PUBLISHER_EMAIL;
-import static com.example.stickers.StickerContentProvider.PUBLISHER_WEBSITE;
-import static com.example.stickers.StickerContentProvider.STICKER_FILE_EMOJI_IN_QUERY;
-import static com.example.stickers.StickerContentProvider.STICKER_FILE_NAME_IN_QUERY;
-import static com.example.stickers.StickerContentProvider.STICKER_PACK_ICON_IN_QUERY;
-import static com.example.stickers.StickerContentProvider.STICKER_PACK_IDENTIFIER_IN_QUERY;
-import static com.example.stickers.StickerContentProvider.STICKER_PACK_NAME_IN_QUERY;
-import static com.example.stickers.StickerContentProvider.STICKER_PACK_PUBLISHER_IN_QUERY;
-import static com.example.stickers.StickerContentProvider.IMAGE_DATA_VERSION;
+import static com.progpack.stickers.StickerContentProvider.ANDROID_APP_DOWNLOAD_LINK_IN_QUERY;
+import static com.progpack.stickers.StickerContentProvider.AVOID_CACHE;
+import static com.progpack.stickers.StickerContentProvider.IOS_APP_DOWNLOAD_LINK_IN_QUERY;
+import static com.progpack.stickers.StickerContentProvider.LICENSE_AGREENMENT_WEBSITE;
+import static com.progpack.stickers.StickerContentProvider.PRIVACY_POLICY_WEBSITE;
+import static com.progpack.stickers.StickerContentProvider.PUBLISHER_EMAIL;
+import static com.progpack.stickers.StickerContentProvider.PUBLISHER_WEBSITE;
+import static com.progpack.stickers.StickerContentProvider.STICKER_FILE_EMOJI_IN_QUERY;
+import static com.progpack.stickers.StickerContentProvider.STICKER_FILE_NAME_IN_QUERY;
+import static com.progpack.stickers.StickerContentProvider.STICKER_PACK_ICON_IN_QUERY;
+import static com.progpack.stickers.StickerContentProvider.STICKER_PACK_IDENTIFIER_IN_QUERY;
+import static com.progpack.stickers.StickerContentProvider.STICKER_PACK_NAME_IN_QUERY;
+import static com.progpack.stickers.StickerContentProvider.STICKER_PACK_PUBLISHER_IN_QUERY;
+import static com.progpack.stickers.StickerContentProvider.IMAGE_DATA_VERSION;
 
 class StickerPackLoader {
 

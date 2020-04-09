@@ -7,7 +7,7 @@
  * https://github.com/JoaovMiranda/programming-languages-stickers.git
  */
 
-package com.example.stickers;
+package com.progpack.stickers;
 
 import android.content.Context;
 import android.util.AttributeSet;
