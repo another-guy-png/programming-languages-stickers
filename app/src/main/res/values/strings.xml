@@ -24,7 +24,7 @@
     <string name="send_email">Send email</string>
     <!-- Text of button that allows user to click to go to the privacy policy website -->
     <string name="privacy_policy">Privacy policy</string>
-    <!-- Text of button that allows user to click to go to the license agreement website -->
+    <!-- Text of button that allows user to click to go to the license agreement website -->ca-app-pub-3940256099942544/1033173712
     <string name="license_agreement">License agreement</string>
     <!-- Text next to the tray icon that indicates the tray icon -->
     <string name="info_screen_tray_icon">Tray icon</string>
@@ -38,6 +38,7 @@
     <string name="add_pack_fail_prompt_update_play_link">Update</string>
     <!-- Toast text when we could not take user to play store because they don't have Google Play app installed -->
     <string name="cannot_find_play_store">Google Play is not installed on the device.</string>
-    <string name="admob_id">ca-app-pub-3940256099942544~3347511713</string>
-    <string name="banner_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_id">ca-app-pub-3499224180104905~3118260694</string>
+    <string name="banner_id">ca-app-pub-3499224180104905/3665055607</string>
+    <string name="inter_id">ca-app-pub-3499224180104905/4325484867</string>
 </resources>
