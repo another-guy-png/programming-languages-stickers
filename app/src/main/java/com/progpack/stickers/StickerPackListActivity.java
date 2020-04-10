@@ -10,11 +10,14 @@ package com.progpack.stickers;
 
 import android.os.AsyncTask;
 import android.os.Bundle;
+import android.util.Log;
 
 import androidx.recyclerview.widget.DividerItemDecoration;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.google.android.gms.ads.AdListener;
+import com.google.android.gms.ads.InterstitialAd;
 import com.google.android.gms.ads.MobileAds;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
@@ -35,6 +38,7 @@ public class StickerPackListActivity extends AddStickerPackActivity {
     private WhiteListCheckAsyncTask whiteListCheckAsyncTask;
     private ArrayList<StickerPack> stickerPackList;
     private AdView mAdView;
+    private InterstitialAd mInterstitialAd;
 
 
     @Override
@@ -43,9 +47,26 @@ public class StickerPackListActivity extends AddStickerPackActivity {
         setContentView(R.layout.activity_sticker_pack_list);
 
         MobileAds.initialize(this, getString(R.string.admob_id));
+
         mAdView = findViewById(R.id.adView);
         AdRequest adRequest = new AdRequest.Builder().build();
         mAdView.loadAd(adRequest);
+        
+        mInterstitialAd = new InterstitialAd(this);
+        mInterstitialAd.setAdUnitId(getString(R.string.inter_id));
+        mInterstitialAd.loadAd(new AdRequest.Builder().build());
+
+        mInterstitialAd.setAdListener(new AdListener() {
+            @Override
+            public void onAdLoaded() {
+                
+                    if (mInterstitialAd.isLoaded()) {
+                        mInterstitialAd.show();
+                    } else {
+                        Log.d("TAG", "The interstitial wasn't loaded yet.");
+                    }
+                            }
+        });
 
         packRecyclerView = findViewById(R.id.sticker_pack_list);
         stickerPackList = getIntent().getParcelableArrayListExtra(EXTRA_STICKER_PACK_LIST_DATA);
