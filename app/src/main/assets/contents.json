@@ -7,80 +7,285 @@
       "name": "Database",
       "publisher": "João Miranda",
       "tray_image_file": "database.png",
-      "image_data_version":"1",
-      "avoid_cache":false,
-      "publisher_email":"joaovmirandas@gmail.com",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "joaovmirandas@gmail.com",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
           "image_file": "aaaaaa.webp",
-          "emojis": ["☕","🙂"]
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
         },
         {
           "image_file": "azure.webp",
-          "emojis": ["😄","😀"]
+          "emojis": [
+            "😄",
+            "😀"
+          ]
         },
         {
           "image_file": "mariadb.webp",
-          "emojis": ["😆","😂"]
+          "emojis": [
+            "😆",
+            "😂"
+          ]
         },
         {
           "image_file": "mongodb.webp",
-          "emojis": ["😩","😰"]
+          "emojis": [
+            "😩",
+            "😰"
+          ]
         },
         {
           "image_file": "mysql.webp",
-          "emojis": ["😭","💧"]
+          "emojis": [
+            "😭",
+            "💧"
+          ]
         },
         {
           "image_file": "plsql.webp",
-          "emojis": ["😍","♥"]
+          "emojis": [
+            "😍",
+            "♥"
+          ]
         },
         {
           "image_file": "postgress.webp",
-          "emojis": ["💔","👎"]
+          "emojis": [
+            "💔",
+            "👎"
+          ]
         },
         {
           "image_file": "sas.webp",
-          "emojis": ["😍","💑"]
+          "emojis": [
+            "😍",
+            "💑"
+          ]
         },
         {
           "image_file": "sqlite.webp",
-          "emojis": ["😘","🍪"]
+          "emojis": [
+            "😘",
+            "🍪"
+          ]
         }
       ]
     },
     {
-      "identifier": "versioni",
+      "identifier": "general",
+      "name": "General",
+      "publisher": "João Miranda",
+      "tray_image_file": "android.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "joaovmirandas@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "android.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "apache.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "apachetomcat.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "arduino.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "docker.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "gradle.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "gradle_2.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "groovy.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        },
+        {
+          "image_file": "gulp.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "haxe.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "matlab.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "nginx.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "nim.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "npm.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "npm_2.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "raspberry.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        },
+        {
+          "image_file": "scratch.webp",
+          "emojis": [
+            "😘",
+            "🍪"
+          ]
+        },
+        {
+          "image_file": "scrach_2.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "vim.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "visualfoxpro.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        },
+        {
+          "image_file": "vue.webp",
+          "emojis": [
+            "😘",
+            "🍪"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "versioning",
       "name": "Git",
       "publisher": "João Miranda",
       "tray_image_file": "git.webp",
-      "image_data_version":"2",
-      "avoid_cache":false,
-      "publisher_email":"joaovmirandas@gmail.com",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "joaovmirandas@gmail.com",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
           "image_file": "bitbucket.webp",
-          "emojis": ["☕","🙂"]
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
         },
         {
-        "image_file": "git.webp",
-        "emojis": ["😄","😀"]
-        },{
+          "image_file": "git.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
           "image_file": "github.webp",
-          "emojis": ["☕","🙂"]
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
         },
         {
           "image_file": "gitkracken.webp",
-          "emojis": ["😄","😀"]
-        },{
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
           "image_file": "gitlab.webp",
-          "emojis": ["☕","🙂"]
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
         }
       ]
     },
@@ -89,114 +294,390 @@
       "name": "Legacy",
       "publisher": "João Miranda",
       "tray_image_file": "delphi.webp",
-      "image_data_version":"3",
-      "avoid_cache":false,
-      "publisher_email":"joaovmirandas@gmail.com",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "joaovmirandas@gmail.com",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
           "image_file": "ada.webp",
-          "emojis": ["☕","🙂"]
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
         },
         {
           "image_file": "delphi.webp",
-          "emojis": ["😄","😀"]
-        },{
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
           "image_file": "fortran.webp",
-          "emojis": ["☕","🙂"]
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
         },
         {
           "image_file": "lisp.webp",
-          "emojis": ["😄","😀"]
-        },{
-        "image_file": "pearl.webp",
-        "emojis": ["☕","🙂"]
-        },{
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "pearl.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
           "image_file": "prolog.webp",
-          "emojis": ["☕","🙂"]
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
         }
       ]
-    },{
+    },
+    {
       "identifier": "languages",
       "name": "Languages",
       "publisher": "João Miranda",
       "tray_image_file": "golang.webp",
-      "image_data_version":"1",
-      "avoid_cache":false,
-      "publisher_email":"joaovmirandas@gmail.com",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "joaovmirandas@gmail.com",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
           "image_file": "c#.webp",
-          "emojis": ["☕","🙂"]
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
         },
         {
           "image_file": "c++.webp",
-          "emojis": ["😄","😀"]
+          "emojis": [
+            "😄",
+            "😀"
+          ]
         },
         {
           "image_file": "c.webp",
-          "emojis": ["😆","😂"]
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "d.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
         },
         {
           "image_file": "dart.webp",
-          "emojis": ["😩","😰"]
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "elixir.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
         },
         {
           "image_file": "fsharp.webp",
-          "emojis": ["😍","♥"]
+          "emojis": [
+            "😍",
+            "♥"
+          ]
         },
         {
           "image_file": "golang.webp",
-          "emojis": ["💔","👎"]
+          "emojis": [
+            "💔",
+            "👎"
+          ]
         },
         {
           "image_file": "golang_2.webp",
-          "emojis": ["😍","💑"]
+          "emojis": [
+            "😍",
+            "💑"
+          ]
         },
         {
-        "image_file": "java.webp",
-        "emojis": ["😘","🍪"]
+          "image_file": "java.webp",
+          "emojis": [
+            "😘",
+            "🍪"
+          ]
         },
         {
           "image_file": "java_2.webp",
-          "emojis": ["😄","😀"]
+          "emojis": [
+            "😄",
+            "😀"
+          ]
         },
         {
           "image_file": "julia.webp",
-          "emojis": ["😆","😂"]
+          "emojis": [
+            "😆",
+            "😂"
+          ]
         },
         {
           "image_file": "kotlin.webp",
-          "emojis": ["😩","😰"]
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "lua.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "ocaml.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
         },
         {
           "image_file": "phyton.webp",
-          "emojis": ["😭","💧"]
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "postscript.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "r.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
         },
         {
           "image_file": "ruby.webp",
-          "emojis": ["😍","♥"]
+          "emojis": [
+            "😍",
+            "♥"
+          ]
         },
         {
           "image_file": "rust.webp",
-          "emojis": ["💔","👎"]
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "sapabap.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
         },
         {
           "image_file": "scala.webp",
-          "emojis": ["😍","💑"]
+          "emojis": [
+            "😍",
+            "💑"
+          ]
         },
         {
           "image_file": "swift.webp",
-          "emojis": ["😘","🍪"]
+          "emojis": [
+            "😘",
+            "🍪"
+          ]
         },
         {
           "image_file": "vbnet.webp",
-          "emojis": ["😍","💑"]
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        },
+        {
+          "image_file": "visualbasic.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "web",
+      "name": "Web Development",
+      "publisher": "João Miranda",
+      "tray_image_file": "www.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "joaovmirandas@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "angular.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "angular_2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "bootstrap.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "css.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "css_2.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "flutter.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "html5.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "javascript_2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "jquery.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "json.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "node.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "nodejs.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "php.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "php_2.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "react.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "sass.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "ts.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "typescript_2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "xml.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
         }
       ]
     }
