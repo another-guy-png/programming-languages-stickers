@@ -4,7 +4,7 @@
   "sticker_packs": [
     {
       "identifier": "database",
-      "name": "Database",
+      "name": "Database ",
       "publisher": "João Miranda",
       "tray_image_file": "database.png",
       "image_data_version": "1",
@@ -45,7 +45,7 @@
     },
     {
       "identifier": "general",
-      "name": "General",
+      "name": "General ",
       "publisher": "João Miranda",
       "tray_image_file": "android.webp",
       "image_data_version": "1",
@@ -102,9 +102,6 @@
         },
         {
           "image_file": "raspberry.webp"
-        },
-        {
-          "image_file": "scratch.webp"
         },
         {
           "image_file": "scrach_2.webp"
@@ -175,9 +172,6 @@
         },
         {
           "image_file": "pearl.webp"
-        },
-        {
-          "image_file": "prolog.webp"
         }
       ]
     },
@@ -194,14 +188,9 @@
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "c#.webp"
-        },
-        {
-          "image_file": "c++.webp"
-        },
-        {
           "image_file": "c.webp"
         },
+        
         {
           "image_file": "d.webp"
         },
