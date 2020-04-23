@@ -10,72 +10,36 @@
       "image_data_version": "1",
       "avoid_cache": false,
       "publisher_email": "joaovmirandas@gmail.com",
-      "publisher_website": "",
+      "publisher_website": "https://github.com/JoaovMiranda/developers-stickers",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "aaaaaa.webp",
-          "emojis": [
-            "☕",
-            "🙂"
-          ]
+          "image_file": "aaaaaa.webp"
         },
         {
-          "image_file": "azure.webp",
-          "emojis": [
-            "😄",
-            "😀"
-          ]
+          "image_file": "azure.webp"
         },
         {
-          "image_file": "mariadb.webp",
-          "emojis": [
-            "😆",
-            "😂"
-          ]
+          "image_file": "mariadb.webp"
         },
         {
-          "image_file": "mongodb.webp",
-          "emojis": [
-            "😩",
-            "😰"
-          ]
+          "image_file": "mongodb.webp"
         },
         {
-          "image_file": "mysql.webp",
-          "emojis": [
-            "😭",
-            "💧"
-          ]
+          "image_file": "mysql.webp"
         },
         {
-          "image_file": "plsql.webp",
-          "emojis": [
-            "😍",
-            "♥"
-          ]
+          "image_file": "plsql.webp"
         },
         {
-          "image_file": "postgress.webp",
-          "emojis": [
-            "💔",
-            "👎"
-          ]
+          "image_file": "postgress.webp"
         },
         {
-          "image_file": "sas.webp",
-          "emojis": [
-            "😍",
-            "💑"
-          ]
+          "image_file": "sas.webp"
         },
         {
-          "image_file": "sqlite.webp",
-          "emojis": [
-            "😘",
-            "🍪"
-          ]
+          "image_file": "sqlite.webp"
         }
       ]
     },
@@ -87,156 +51,72 @@
       "image_data_version": "1",
       "avoid_cache": false,
       "publisher_email": "joaovmirandas@gmail.com",
-      "publisher_website": "",
+      "publisher_website": "https://github.com/JoaovMiranda/developers-stickers",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "android.webp",
-          "emojis": [
-            "☕",
-            "🙂"
-          ]
+          "image_file": "android.webp"
         },
         {
-          "image_file": "apache.webp",
-          "emojis": [
-            "😄",
-            "😀"
-          ]
+          "image_file": "apache.webp"
         },
         {
-          "image_file": "apachetomcat.webp",
-          "emojis": [
-            "😆",
-            "😂"
-          ]
+          "image_file": "apachetomcat.webp"
         },
         {
-          "image_file": "arduino.webp",
-          "emojis": [
-            "😩",
-            "😰"
-          ]
+          "image_file": "arduino.webp"
         },
         {
-          "image_file": "docker.webp",
-          "emojis": [
-            "😭",
-            "💧"
-          ]
+          "image_file": "docker.webp"
         },
         {
-          "image_file": "gradle.webp",
-          "emojis": [
-            "😍",
-            "♥"
-          ]
+          "image_file": "gradle.webp"
         },
         {
-          "image_file": "gradle_2.webp",
-          "emojis": [
-            "💔",
-            "👎"
-          ]
+          "image_file": "gradle_2.webp"
         },
         {
-          "image_file": "groovy.webp",
-          "emojis": [
-            "😍",
-            "💑"
-          ]
+          "image_file": "groovy.webp"
         },
         {
-          "image_file": "gulp.webp",
-          "emojis": [
-            "☕",
-            "🙂"
-          ]
+          "image_file": "gulp.webp"
         },
         {
-          "image_file": "haxe.webp",
-          "emojis": [
-            "😄",
-            "😀"
-          ]
+          "image_file": "haxe.webp"
         },
         {
-          "image_file": "matlab.webp",
-          "emojis": [
-            "😆",
-            "😂"
-          ]
+          "image_file": "matlab.webp"
         },
         {
-          "image_file": "nginx.webp",
-          "emojis": [
-            "😩",
-            "😰"
-          ]
+          "image_file": "nginx.webp"
         },
         {
-          "image_file": "nim.webp",
-          "emojis": [
-            "😭",
-            "💧"
-          ]
+          "image_file": "nim.webp"
         },
         {
-          "image_file": "npm.webp",
-          "emojis": [
-            "😍",
-            "♥"
-          ]
+          "image_file": "npm.webp"
         },
         {
-          "image_file": "npm_2.webp",
-          "emojis": [
-            "💔",
-            "👎"
-          ]
+          "image_file": "npm_2.webp"
         },
         {
-          "image_file": "raspberry.webp",
-          "emojis": [
-            "😍",
-            "💑"
-          ]
+          "image_file": "raspberry.webp"
         },
         {
-          "image_file": "scratch.webp",
-          "emojis": [
-            "😘",
-            "🍪"
-          ]
+          "image_file": "scratch.webp"
         },
         {
-          "image_file": "scrach_2.webp",
-          "emojis": [
-            "😍",
-            "♥"
-          ]
+          "image_file": "scrach_2.webp"
         },
         {
-          "image_file": "vim.webp",
-          "emojis": [
-            "💔",
-            "👎"
-          ]
+          "image_file": "vim.webp"
         },
         {
-          "image_file": "visualfoxpro.webp",
-          "emojis": [
-            "😍",
-            "💑"
-          ]
+          "image_file": "visualfoxpro.webp"
         },
         {
-          "image_file": "vue.webp",
-          "emojis": [
-            "😘",
-            "🍪"
-          ]
+          "image_file": "vue.webp"
         }
       ]
     },
@@ -248,44 +128,24 @@
       "image_data_version": "1",
       "avoid_cache": false,
       "publisher_email": "joaovmirandas@gmail.com",
-      "publisher_website": "",
+      "publisher_website": "https://github.com/JoaovMiranda/developers-stickers",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "bitbucket.webp",
-          "emojis": [
-            "☕",
-            "🙂"
-          ]
+          "image_file": "bitbucket.webp"
         },
         {
-          "image_file": "git.webp",
-          "emojis": [
-            "😄",
-            "😀"
-          ]
+          "image_file": "git.webp"
         },
         {
-          "image_file": "github.webp",
-          "emojis": [
-            "☕",
-            "🙂"
-          ]
+          "image_file": "github.webp"
         },
         {
-          "image_file": "gitkracken.webp",
-          "emojis": [
-            "😄",
-            "😀"
-          ]
+          "image_file": "gitkracken.webp"
         },
         {
-          "image_file": "gitlab.webp",
-          "emojis": [
-            "☕",
-            "🙂"
-          ]
+          "image_file": "gitlab.webp"
         }
       ]
     },
@@ -297,51 +157,27 @@
       "image_data_version": "1",
       "avoid_cache": false,
       "publisher_email": "joaovmirandas@gmail.com",
-      "publisher_website": "",
+      "publisher_website": "https://github.com/JoaovMiranda/developers-stickers",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "ada.webp",
-          "emojis": [
-            "☕",
-            "🙂"
-          ]
+          "image_file": "ada.webp"
         },
         {
-          "image_file": "delphi.webp",
-          "emojis": [
-            "😄",
-            "😀"
-          ]
+          "image_file": "delphi.webp"
         },
         {
-          "image_file": "fortran.webp",
-          "emojis": [
-            "☕",
-            "🙂"
-          ]
+          "image_file": "fortran.webp"
         },
         {
-          "image_file": "lisp.webp",
-          "emojis": [
-            "😄",
-            "😀"
-          ]
+          "image_file": "lisp.webp"
         },
         {
-          "image_file": "pearl.webp",
-          "emojis": [
-            "☕",
-            "🙂"
-          ]
+          "image_file": "pearl.webp"
         },
         {
-          "image_file": "prolog.webp",
-          "emojis": [
-            "☕",
-            "🙂"
-          ]
+          "image_file": "prolog.webp"
         }
       ]
     },
@@ -353,184 +189,84 @@
       "image_data_version": "1",
       "avoid_cache": false,
       "publisher_email": "joaovmirandas@gmail.com",
-      "publisher_website": "",
+      "publisher_website": "https://github.com/JoaovMiranda/developers-stickers",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "c#.webp",
-          "emojis": [
-            "☕",
-            "🙂"
-          ]
+          "image_file": "c#.webp"
         },
         {
-          "image_file": "c++.webp",
-          "emojis": [
-            "😄",
-            "😀"
-          ]
+          "image_file": "c++.webp"
         },
         {
-          "image_file": "c.webp",
-          "emojis": [
-            "😆",
-            "😂"
-          ]
+          "image_file": "c.webp"
         },
         {
-          "image_file": "d.webp",
-          "emojis": [
-            "😆",
-            "😂"
-          ]
+          "image_file": "d.webp"
         },
         {
-          "image_file": "dart.webp",
-          "emojis": [
-            "😩",
-            "😰"
-          ]
+          "image_file": "dart.webp"
         },
         {
-          "image_file": "elixir.webp",
-          "emojis": [
-            "😆",
-            "😂"
-          ]
+          "image_file": "elixir.webp"
         },
         {
-          "image_file": "fsharp.webp",
-          "emojis": [
-            "😍",
-            "♥"
-          ]
+          "image_file": "fsharp.webp"
         },
         {
-          "image_file": "golang.webp",
-          "emojis": [
-            "💔",
-            "👎"
-          ]
+          "image_file": "golang.webp"
         },
         {
-          "image_file": "golang_2.webp",
-          "emojis": [
-            "😍",
-            "💑"
-          ]
+          "image_file": "golang_2.webp"
         },
         {
-          "image_file": "java.webp",
-          "emojis": [
-            "😘",
-            "🍪"
-          ]
+          "image_file": "java.webp"
         },
         {
-          "image_file": "java_2.webp",
-          "emojis": [
-            "😄",
-            "😀"
-          ]
+          "image_file": "java_2.webp"
         },
         {
-          "image_file": "julia.webp",
-          "emojis": [
-            "😆",
-            "😂"
-          ]
+          "image_file": "julia.webp"
         },
         {
-          "image_file": "kotlin.webp",
-          "emojis": [
-            "😩",
-            "😰"
-          ]
+          "image_file": "kotlin.webp"
         },
         {
-          "image_file": "lua.webp",
-          "emojis": [
-            "😆",
-            "😂"
-          ]
+          "image_file": "lua.webp"
         },
         {
-          "image_file": "ocaml.webp",
-          "emojis": [
-            "😆",
-            "😂"
-          ]
+          "image_file": "ocaml.webp"
         },
         {
-          "image_file": "phyton.webp",
-          "emojis": [
-            "😭",
-            "💧"
-          ]
+          "image_file": "phyton.webp"
         },
         {
-          "image_file": "postscript.webp",
-          "emojis": [
-            "😆",
-            "😂"
-          ]
+          "image_file": "postscript.webp"
         },
         {
-          "image_file": "r.webp",
-          "emojis": [
-            "😆",
-            "😂"
-          ]
+          "image_file": "r.webp"
         },
         {
-          "image_file": "ruby.webp",
-          "emojis": [
-            "😍",
-            "♥"
-          ]
+          "image_file": "ruby.webp"
         },
         {
-          "image_file": "rust.webp",
-          "emojis": [
-            "💔",
-            "👎"
-          ]
+          "image_file": "rust.webp"
         },
         {
-          "image_file": "sapabap.webp",
-          "emojis": [
-            "😆",
-            "😂"
-          ]
+          "image_file": "sapabap.webp"
         },
         {
-          "image_file": "scala.webp",
-          "emojis": [
-            "😍",
-            "💑"
-          ]
+          "image_file": "scala.webp"
         },
         {
-          "image_file": "swift.webp",
-          "emojis": [
-            "😘",
-            "🍪"
-          ]
+          "image_file": "swift.webp"
         },
         {
-          "image_file": "vbnet.webp",
-          "emojis": [
-            "😍",
-            "💑"
-          ]
+          "image_file": "vbnet.webp"
         },
         {
-          "image_file": "visualbasic.webp",
-          "emojis": [
-            "😍",
-            "💑"
-          ]
+          "image_file": "visualbasic.webp"
         }
       ]
     },
@@ -542,142 +278,66 @@
       "image_data_version": "1",
       "avoid_cache": false,
       "publisher_email": "joaovmirandas@gmail.com",
-      "publisher_website": "",
+      "publisher_website": "https://github.com/JoaovMiranda/developers-stickers",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "angular.webp",
-          "emojis": [
-            "☕",
-            "🙂"
-          ]
+          "image_file": "angular.webp"
         },
         {
-          "image_file": "angular_2.webp",
-          "emojis": [
-            "😄",
-            "😀"
-          ]
+          "image_file": "angular_2.webp"
         },
         {
-          "image_file": "bootstrap.webp",
-          "emojis": [
-            "☕",
-            "🙂"
-          ]
+          "image_file": "bootstrap.webp"
         },
         {
-          "image_file": "css.webp",
-          "emojis": [
-            "😄",
-            "😀"
-          ]
+          "image_file": "css.webp"
         },
         {
-          "image_file": "css_2.webp",
-          "emojis": [
-            "☕",
-            "🙂"
-          ]
+          "image_file": "css_2.webp"
         },
         {
-          "image_file": "flutter.webp",
-          "emojis": [
-            "☕",
-            "🙂"
-          ]
+          "image_file": "flutter.webp"
         },
         {
-          "image_file": "html5.webp",
-          "emojis": [
-            "☕",
-            "🙂"
-          ]
+          "image_file": "html5.webp"
         },
         {
-          "image_file": "javascript_2.webp",
-          "emojis": [
-            "😄",
-            "😀"
-          ]
+          "image_file": "javascript_2.webp"
         },
         {
-          "image_file": "jquery.webp",
-          "emojis": [
-            "☕",
-            "🙂"
-          ]
+          "image_file": "jquery.webp"
         },
         {
-          "image_file": "json.webp",
-          "emojis": [
-            "😄",
-            "😀"
-          ]
+          "image_file": "json.webp"
         },
         {
-          "image_file": "node.webp",
-          "emojis": [
-            "☕",
-            "🙂"
-          ]
+          "image_file": "node.webp"
         },
         {
-          "image_file": "nodejs.webp",
-          "emojis": [
-            "☕",
-            "🙂"
-          ]
+          "image_file": "nodejs.webp"
         },
         {
-          "image_file": "php.webp",
-          "emojis": [
-            "☕",
-            "🙂"
-          ]
+          "image_file": "php.webp"
         },
         {
-          "image_file": "php_2.webp",
-          "emojis": [
-            "☕",
-            "🙂"
-          ]
+          "image_file": "php_2.webp"
         },
         {
-          "image_file": "react.webp",
-          "emojis": [
-            "☕",
-            "🙂"
-          ]
+          "image_file": "react.webp"
         },
         {
-          "image_file": "sass.webp",
-          "emojis": [
-            "😄",
-            "😀"
-          ]
+          "image_file": "sass.webp"
         },
         {
-          "image_file": "ts.webp",
-          "emojis": [
-            "☕",
-            "🙂"
-          ]
+          "image_file": "ts.webp"
         },
         {
-          "image_file": "typescript_2.webp",
-          "emojis": [
-            "😄",
-            "😀"
-          ]
+          "image_file": "typescript_2.webp"
         },
         {
-          "image_file": "xml.webp",
-          "emojis": [
-            "☕",
-            "🙂"
-          ]
+          "image_file": "xml.webp"
         }
       ]
     }
